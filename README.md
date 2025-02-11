@@ -62,3 +62,17 @@ Steps for Windows:
   - 
 - **Compilation errors**:
   - If you encounter any errors related to the ncurses library, double-check your installation process and the command you're using to compile the code.
+
+
+
+## Screenshots from Game
+
+**Below are some screenshots from the game. You can view the images located in the `assets` folder**:
+
+![Screenshot 1](assets/menu.png)
+![Screenshot 2](assets/instructions.png)
+![Screenshot 3](assets/settings.png)
+![Screenshot 3](assets/points1.png)
+![Screenshot 3](assets/game.png)
+
+**These images showcase the gameplay and different stages of the game**.
